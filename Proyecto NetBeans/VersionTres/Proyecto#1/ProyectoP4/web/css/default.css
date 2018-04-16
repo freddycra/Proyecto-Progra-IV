@@ -1,0 +1,23 @@
+body{
+    background-image: url("fondo2.jpg");
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+#wrapper{
+    font-family: sans-serif;
+    font-size: 12pt;
+}
+
+#etiqueta {
+    padding-left: 24px;
+    padding-right: 16px;
+    text-align: right;
+    background-color: lightgray;
+}
+
+#campo {
+    padding-left: 8px;
+    padding-right: 24px;
+    text-align: left;
+}
